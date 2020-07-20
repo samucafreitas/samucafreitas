@@ -1,4 +1,6 @@
-### Hi there 👋
+#### “There's a good part of Computer Science that's like magic. Unfortunately there's a bad part of Computer Science that's like religion.”
+
+###### ― Hal Abelson
 
 <!--
 **samucafreitas/samucafreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
