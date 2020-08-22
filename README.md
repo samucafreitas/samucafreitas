@@ -8,6 +8,10 @@
 
 ###### ― Hal Abelson
 
+**Languages and Tools:**  
+<code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/java.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/angular.png"></code>
 <!--
 **samucafreitas/samucafreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
