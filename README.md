@@ -15,12 +15,12 @@
 ###### ― Hal Abelson
 
 **Languages and Tools:**  
-<code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/java.jpg"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/java.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/spring.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/vscode.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/vim.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/terminal.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/vim.webp"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/samucafreitas/samucafreitas/master/imgs/linux.png"></code>
 
 <!--
